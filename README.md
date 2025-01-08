@@ -228,7 +228,7 @@ Many financial institutions lack modern APIs or only expose limited endpoints. R
 
 - How do you think about the sequencing of monetization? Should we focus on building the community first and monetize later, or try to get early commercial adoption? Particularly interested in how this might affect early architectural decisions.
 
-- Looking at successful commercial open source in the TypeScript ecosystem (like Prisma, or your experience with [specific project]), how would you approach the balance between keeping core components open source while building sustainable commercial offerings? Particularly interested in your thoughts on packaging, licensing strategy, and where to draw the line between OSS and commercial features.
+- Looking at successful commercial open source in the TypeScript ecosystem, how would you approach the balance between keeping core components open source while building sustainable commercial offerings? Particularly interested in your thoughts on packaging, licensing strategy, and where to draw the line between OSS and commercial features.
 
 ## Technical Architecture
 
